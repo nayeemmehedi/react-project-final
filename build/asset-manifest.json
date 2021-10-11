@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e7aa7bbd.chunk.css",
+    "main.js": "/static/js/main.1029ccd5.chunk.js",
+    "main.js.map": "/static/js/main.1029ccd5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1a34ec94.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1a34ec94.js.map",
+    "static/js/2.0ce892d0.chunk.js": "/static/js/2.0ce892d0.chunk.js",
+    "static/js/2.0ce892d0.chunk.js.map": "/static/js/2.0ce892d0.chunk.js.map",
+    "static/js/3.6c4c5ff7.chunk.js": "/static/js/3.6c4c5ff7.chunk.js",
+    "static/js/3.6c4c5ff7.chunk.js.map": "/static/js/3.6c4c5ff7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e7aa7bbd.chunk.css.map": "/static/css/main.e7aa7bbd.chunk.css.map",
+    "static/js/2.0ce892d0.chunk.js.LICENSE.txt": "/static/js/2.0ce892d0.chunk.js.LICENSE.txt",
+    "static/media/3593987.86b747c3.jpg": "/static/media/3593987.86b747c3.jpg",
+    "static/media/dd.d08bb8ef.svg": "/static/media/dd.d08bb8ef.svg",
+    "static/media/earth.85d7bb38.mp4": "/static/media/earth.85d7bb38.mp4",
+    "static/media/interview.82d3eafa.jpg": "/static/media/interview.82d3eafa.jpg",
+    "static/media/wave111.d08bb8ef.svg": "/static/media/wave111.d08bb8ef.svg",
+    "static/media/wave23.0cb1f925.svg": "/static/media/wave23.0cb1f925.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a34ec94.js",
+    "static/js/2.0ce892d0.chunk.js",
+    "static/css/main.e7aa7bbd.chunk.css",
+    "static/js/main.1029ccd5.chunk.js"
+  ]
+}
